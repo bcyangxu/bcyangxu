@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there,I'm bcyangxu
+一名菜鸡前端程序员，正在努力学习前端技术
 
 <!--
 **bcyangxu/bcyangxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
